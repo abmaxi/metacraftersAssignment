@@ -1,5 +1,5 @@
 ## About MAXILAKH.SOL
- you can mint and burn token
+ you can mint and burn maxilakh tokens
  but you cant burn more than you have
 
 # To Begin
