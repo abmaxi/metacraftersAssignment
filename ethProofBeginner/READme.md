@@ -4,7 +4,7 @@
 
 # To Begin
 
-visit the remix a browser based editor
+visit remix, a browser based editor
 
 create a folder and file under contract
 
