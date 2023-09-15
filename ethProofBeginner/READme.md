@@ -1,6 +1,6 @@
 ## About MAXILAKH.SOL
  you can mint and burn token
- you cant burn more than you have
+ but you cant burn more than you have
 
 # To Begin
 
